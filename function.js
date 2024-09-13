@@ -1,6 +1,6 @@
 function getFirstElement (arr){
     //ide írd kódod
-    return arr[0];
+    return arr[0], arr[1], arr[2];
     }
     
     const numbers = [1, 2, 3];
