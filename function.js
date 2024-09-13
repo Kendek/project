@@ -1,6 +1,8 @@
 function getFirstElement (arr){
-    //ide írd kódod
-    return arr[0];
+    if (arr.length == 0)
+        return "Array is empty";
+    else
+        return arr[0];
     }
     
     const numbers = [1, 2, 3];
